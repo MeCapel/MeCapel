@@ -39,6 +39,7 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MeCapel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeCapel&radius=16&theme=minimal&area=true&order=5&custom_title=Capel's%20activities&bg_color=00000&color=D9D9D9&title_color=7E51FF&line=D9D9D9&point=7E51FF&area_color=7E51FF&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
